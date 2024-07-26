@@ -8,6 +8,13 @@
             "type": "java",
             "name": "SumOfNumbers",
             "request": "launch",
+            "mainClass": "Numbers.SumOfNumbers",
+            "projectName": "Java_f8970343"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNumbers",
+            "request": "launch",
             "mainClass": "Tasks.SumOfNumbers",
             "projectName": "Java_f8970343"
         },

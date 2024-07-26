@@ -1,4 +1,4 @@
-package Tasks;
+package Numbers;
 
 import java.util.Scanner;
 
