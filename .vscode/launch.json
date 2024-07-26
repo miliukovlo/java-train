@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ParityCheck",
+            "request": "launch",
+            "mainClass": "Numbers.ParityCheck",
+            "projectName": "Java_f8970343"
+        },
+        {
+            "type": "java",
             "name": "SumOfNumbers",
             "request": "launch",
             "mainClass": "Numbers.SumOfNumbers",
