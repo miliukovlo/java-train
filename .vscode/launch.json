@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckOnPalindrome",
+            "request": "launch",
+            "mainClass": "Tasks.CheckOnPalindrome",
+            "projectName": "Java_f8970343"
+        },
+        {
+            "type": "java",
             "name": "Calculator",
             "request": "launch",
             "mainClass": "Calc.Calculator",
