@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortByBinary",
+            "request": "launch",
+            "mainClass": "Numbers.SortByBinary",
+            "projectName": "Java_f8970343"
+        },
+        {
+            "type": "java",
             "name": "CheckOnPalindrome",
             "request": "launch",
             "mainClass": "Tasks.CheckOnPalindrome",
